@@ -2,6 +2,8 @@
 
 Create magical move transitions between scenes in react-native 🐰🎩✨
 
+Go to [awereactnative](https://awereactnative.com/magic-move) to learn more...
+
 
 - [Usage](#usage)
 - [react-navigation](#react-navigation)
